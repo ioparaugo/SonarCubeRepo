@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "ioparaugo",
+        "projectKey": "ioparaugo_SonarCubeRepo"
+    }
+}
